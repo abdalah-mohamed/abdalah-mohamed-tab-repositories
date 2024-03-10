@@ -7,9 +7,8 @@
   <img align="right"><img src=https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif width=20%>
 </p> 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=392DFF&background=7DFF2300&center=true&vCenter=true&multiline=true&random=true&width=435&lines=6+months+of+freelancing+experience.)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=392DFF&background=7DFF2300&center=true&vCenter=true&multiline=true&random=true&width=435&lines=graduated+from+hasoub+academy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=392DFF&background=7DFF2300&center=true&vCenter=true&multiline=true&random=true&width=435&lines=6+months+of+freelancing+experience.)](https://git.io/typing-svg) 
  
 
 
